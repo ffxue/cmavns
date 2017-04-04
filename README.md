@@ -19,7 +19,9 @@ When your optimization problem is huge, expensive, way too complex.
 # Dependencies
 
 [CBBOC 2015 API](https://github.com/cbboc/cpp)
+
 [libcmaes](https://github.com/beniz/libcmaes)
+
 [Eigen 3.2+](http://eigen.tuxfamily.org)
 
 # Install
