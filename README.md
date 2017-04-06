@@ -18,15 +18,16 @@ When your optimization problem is huge, expensive, way too complex.
 
 # Dependencies
 
-[CBBOC 2015 API](https://github.com/cbboc/cpp)
+[CBBOC 2015 API](//github.com/cbboc/cpp/tree/CBBOC-2015) or [CBBOC 2016 API](//github.com/cbboc/cpp)
 
-[libcmaes](https://github.com/beniz/libcmaes)
+[libcmaes](//github.com/beniz/libcmaes)
 
-[Eigen 3.2+](http://eigen.tuxfamily.org)
+[Eigen 3.2+](//eigen.tuxfamily.org)
 
 # Install
 
-GCC 4.8+ 
+* Copy files to src/ folder of CBBOC API
+* GCC 4.6+ 
 
     gcc src/*.cpp -Iinclude -Ipath_to_libcmaes -Ipath_to_Eigen -std=c++0x -lstdc++ -O3
 
@@ -34,7 +35,7 @@ GCC 4.8+
 
 # License
 
-LGPL-3
+LGPL-3.0
 
 
  
