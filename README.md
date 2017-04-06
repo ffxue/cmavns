@@ -1,6 +1,6 @@
 # About CMA-VNS
 
-CMA-VNS is an award-winning algorithm. CMA-VNS has won all three tracks in the [CBBOC 2015](http://web.mst.edu/~tauritzd/CBBOC/GECCO2015/) competition ([C++ API](https://github.com/cbboc/cpp)) and all the two tracks in [CBBOC 2016](http://web.mst.edu/~tauritzd/CBBOC/GECCO2016/).
+CMA-VNS is an award-winning algorithm. CMA-VNS has won all three tracks in the [CBBOC 2015](//web.mst.edu/~tauritzd/CBBOC/GECCO2015/) competition ([C++ API'15](//github.com/cbboc/cpp/tree/CBBOC-2015)) and all the two tracks in [CBBOC 2016](//web.mst.edu/~tauritzd/CBBOC/GECCO2016/) ([C++ API'16](//github.com/cbboc/cpp/tree/master)).
 
 # How to cite
 
