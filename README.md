@@ -8,7 +8,7 @@ CMA-VNS is an award-winning algorithm. CMA-VNS has won all three tracks in the [
   
 # How does it work
 
-As its name, CMA-ES runs first, VNS then takes the baton from CMA-ES in the relay race.
+As its name, CMA-ES runs first, VNS then takes the baton from CMA-ES in the relay race. The semi-adapted covariance matrix model of CMA-ES can recommend promising candidates in VNS phase.
 
 For more details, please refer to the papers.
 
