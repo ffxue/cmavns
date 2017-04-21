@@ -4,6 +4,8 @@ CMA-VNS is an award-winning algorithm. CMA-VNS has won all three tracks in the [
 
 # How to cite
 
+    Fan Xue and Geoﬀrey Q Shen. 2017. Design of an efficient hyper-heuristic algorithm CMA-VNS for combinatorial black-box optimization problems. In Proceedings of GECCO’17 Companion, Berlin, Germany, July 15-19, 2017, 6 pages. DOI: [http://dx.doi.org/10.1145/3067695.3082054](//dx.doi.org/10.1145/3067695.3082054)
+  
 # How does it work
 
 As its name, CMA-ES runs first, VNS then takes the baton from CMA-ES in the relay race.
@@ -15,6 +17,10 @@ For more details, please refer to the papers.
 When your optimization problem is huge, expensive, way too complex.
 
 # Goal of this project
+
+* To develop a competitive entry in CBBOC competitions
+* To design an efficient way of solving complex NK-models
+* To try to build a bridge between a derivative-free optimization method (CMA-ES) and a local search heuristic (VNS)
 
 # Dependencies
 
