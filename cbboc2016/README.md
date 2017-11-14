@@ -4,10 +4,10 @@ Download [CBBOC 2016 C++ API](//github.com/cbboc/cpp/)
 
 Add the following lines into "src/Main.cpp"
     
-   CMAVNS2Competitor competitor;
-   // CMAVNS2Competitor competitor( TrainingCategory::SHORT );
-   // CMAVNS2Competitor competitor( TrainingCategory::LONG );
-   CBBOC::run( competitor );
+    CMAVNS2Competitor competitor;
+    // CMAVNS2Competitor competitor( TrainingCategory::SHORT );
+    // CMAVNS2Competitor competitor( TrainingCategory::LONG );
+    CBBOC::run( competitor );
    
 Install Eigen3 and libcmaes, then 
 
